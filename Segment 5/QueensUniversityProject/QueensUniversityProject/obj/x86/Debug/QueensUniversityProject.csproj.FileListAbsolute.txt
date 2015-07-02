@@ -1,0 +1,14 @@
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\obj\x86\Debug\QueensUniversityProject.csprojResolveAssemblyReference.cache
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\obj\x86\Debug\QueensUniversityProject.frmStudentRegistration.resources
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\obj\x86\Debug\QueensUniversityProject.Properties.Resources.resources
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\obj\x86\Debug\QueensUniversityProject.csproj.GenerateResource.Cache
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\bin\Debug\QueensUniversityProject.exe
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\bin\Debug\QueensUniversityProject.pdb
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\bin\Debug\BL.dll
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\bin\Debug\DAL.dll
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\bin\Debug\BL.pdb
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\bin\Debug\DAL.pdb
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\obj\x86\Debug\QueensUniversityProject.exe
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\obj\x86\Debug\QueensUniversityProject.pdb
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\obj\x86\Debug\QueensUniversityProject.frmStudentDetailsForm.resources
+D:\Interview Assignment\QueensUniversityProject\QueensUniversityProject\obj\x86\Debug\QueensUniversityProject.frmMaincs.resources

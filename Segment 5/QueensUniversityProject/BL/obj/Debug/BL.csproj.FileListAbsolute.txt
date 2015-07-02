@@ -1,0 +1,7 @@
+D:\Interview Assignment\QueensUniversityProject\BL\bin\Debug\BL.dll
+D:\Interview Assignment\QueensUniversityProject\BL\bin\Debug\BL.pdb
+D:\Interview Assignment\QueensUniversityProject\BL\bin\Debug\DAL.dll
+D:\Interview Assignment\QueensUniversityProject\BL\bin\Debug\DAL.pdb
+D:\Interview Assignment\QueensUniversityProject\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Interview Assignment\QueensUniversityProject\BL\obj\Debug\BL.dll
+D:\Interview Assignment\QueensUniversityProject\BL\obj\Debug\BL.pdb
